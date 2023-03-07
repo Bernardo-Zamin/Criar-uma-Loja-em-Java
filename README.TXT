@@ -4,8 +4,8 @@ Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
 ele/ela precisa saber. Os comentários devem incluir, pelo menos:
 ------------------------------------------------------------------------
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
+TÍTULO DO PROJETO: CRIAÇÃO DE UMA SIMPLES LOJA EM JAVA
+OBJETIVO DO PROJETO: APRIMORAR OS FUNDAMENTOS EM JAVA
 VERSÃO ou DATA:
 COMO INICIAR O PROJETO:
 AUTORES:
